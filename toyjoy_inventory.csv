@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Date,Units_Sold,Inventory_Level,Revenue,Cost,Stockout_Flag,Season
+P001,Remote Control Car,Action Toys,2023-01-15,45,120.0,22500,12000,No,Regular
+P002,Building Blocks,Educational Toys,2023-01-15,60,150.0,30000,18000,No,Regular
+P003,Teddy Bear,Soft Toys,2023-01-15,30,200.0,15000,8000,No,Regular
+P004,Puzzle Set,Educational Toys,2023-02-15,55,140.0,22000,13000,No,Regular
+P005,Football Kit,Outdoor Toys,2023-02-15,40,90.0,20000,12000,No,Regular
+P006,Doll House,Dolls,2023-03-15,35,80.0,24500,15000,No,Regular
+P007,Lego City,Educational Toys,2023-04-15,75,60.0,60000,35000,Yes,School Holiday
+P008,Water Gun,Outdoor Toys,2023-05-15,110,40.0,33000,18000,Yes,Summer Holiday
+P009,Cricket Set,Outdoor Toys,2023-05-15,95,30.0,38000,21000,Yes,Summer Holiday
+P010,Barbie Doll,Dolls,2023-06-15,70,50.0,42000,25000,Yes,Summer Holiday
+P011,Toy Train,Action Toys,2023-07-15,48,110.0,24000,14000,No,Regular
+P012,Rubiks Cube,Educational Toys,2023-08-15,58,130.0,17400,9000,No,Regular
+P013,Stuffed Panda,Soft Toys,2023-09-15,42,170.0,21000,11000,No,Regular
+P014,Mini Drone,Action Toys,2023-10-15,85,70.0,68000,40000,Yes,Festival
+P015,Science Kit,Educational Toys,2023-11-15,90,65.0,54000,31000,Yes,Festival
+P016,Christmas Train,Action Toys,2023-12-15,140,20.0,70000,40000,Yes,Holiday
+P017,Santa Doll,Dolls,2023-12-15,135,15.0,67500,39000,Yes,Holiday
+P018,Gift Puzzle,Educational Toys,2023-12-15,125,25.0,50000,28000,Yes,Holiday
+P019,Remote Control Car,Action Toy,2024-01-15,50,130.0,25000,13000,No,Regular
+P020,Building Blocks,Educational Toys,2024-02-15,65,145.0,32500,19000,No,Regular
+P021,Teddy Bear,Soft Toys,2024-03-15,32,190.0,16000,8500,No,Regular
+P022,Puzzle Set,Educational Toys,2024-04-15,60,135.0,24000,14000,No,Regular
+P023,Football Kit,Outdoor Toys,2024-05-15,120,35.0,60000,34000,Yes,Summer Holiday
+P024,Doll House,Dolls,2024-06-15,75,45.0,52500,31000,Yes,Summer Holiday
+P025,Lego City,EducationalToys,2024-07-15,85,50.0,68000,39000,Yes,School Holiday
+P026,Water Gun,Outdoor Toys,2024-08-15,90,70.0,27000,15000,No,Regular
+P027,Cricket Set,Outdoor Toys,2024-09-15,80,85.0,32000,18000,No,Regular
+P028,Barbie Doll,Dolls,2024-10-15,95,60.0,57000,34000,Yes,Festival
+P029,Mini Drone,Action Toys,2024-11-15,100,55.0,80000,47000,Yes,Festival
+P030,Science Kit,Educational Toys,2024-12-15,150,18.0,90000,52000,Yes,Holiday
+P031,Christmas Train,Action Toys,2024-12-15,160,10.0,80000,46000,Yes,Holiday
+P032,Santa Doll,Dolls,2024-12-15,145,12.0,72500,41000,Yes,Holiday
+P033,Gift Puzzle,Educational Toys,2024-12-15,135,20.0,54000,30000,Yes,Holiday
+P034,Remote Control Car,Action Toys,2025-01-15,55,,27500,14500,No,Regular
+P035,Building Blocks,Educational Toys,2025-02-15,68,140.0,34000,19500,No,Regular
+P036,Teddy Bear,Soft Toys,2025-03-15,38,180.0,19000,10000,No,Regular
+P037,Puzzle Set,Educational Toys,2025-04-15,65,125.0,26000,15000,No,Regular
+P038,Football Kit,Outdoor Toys,2025-05-15,130,25.0,65000,36000,Yes,Summer Holiday
+P039,Doll House,Dolls,2025-06-15,80,40.0,56000,33000,Yes,Summer Holiday
+P040,Lego City,Educational Toys,2025-07-15,95,35.0,76000,43000,Yes,School Holiday
+P041,Water Gun,Outdoor Toys,2025-08-15,100,60.0,30000,16500,No,Regular
+P042,Cricket Set,Outdoor Toys,2025-09-15,88,75.0,35200,20000,No,Regular
+P043,Barbie Doll,Dolls,2025-10-15,105,50.0,63000,37000,Yes,Festival
+P044,Mini Drone,Action Toys,2025-11-15,115,45.0,92000,54000,Yes,Festival
+P045,Science Kit,Educational Toys,2025-12-15,170,8.0,102000,58000,Yes,Holiday
+P046,Christmas Train,Action Toys,2025-12-15,180,5.0,90000,50000,Yes,Holiday
+P047,Santa Doll,Dolls,2025-12-15,165,7.0,82500,46000,Yes,Holiday
+P048,Gift Puzzle,Educational Toys,2025-12-15,155,12.0,62000,34000,Yes,Holiday
+P049,Wooden Blocks,Educational Toys,2025-06-15,20,250.0,12000,10000,No,Regular
+P050,Toy Keyboard,Educational Toys,2025-08-15,15,280.0,9000,8500,No,Regular
